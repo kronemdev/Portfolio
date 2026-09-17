@@ -672,7 +672,7 @@ body.dark-mode .contact-item {
 .contact-item a {
     color: var(--primary-color);
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 500;
     transition: all 0.3s ease;
 }
 
